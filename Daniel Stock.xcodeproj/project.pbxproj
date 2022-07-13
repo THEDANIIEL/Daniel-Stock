@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FAB4EA53287562EA007CB7FA /* Webservice and Models .swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB4EA52287562EA007CB7FA /* Webservice and Models .swift */; };
+		FAB4EA5528756341007CB7FA /* Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB4EA5428756341007CB7FA /* Stock.swift */; };
+		FAB4EA5B287566D7007CB7FA /* StockListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB4EA5A287566D7007CB7FA /* StockListViewModel.swift */; };
+		FAB4EA5D2875674B007CB7FA /* StockViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB4EA5C2875674B007CB7FA /* StockViewModel.swift */; };
+		FAB4EA5F287568A9007CB7FA /* StockListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB4EA5E287568A9007CB7FA /* StockListView.swift */; };
 		FACC4985286427A600807B04 /* Daniel_StockApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACC4984286427A600807B04 /* Daniel_StockApp.swift */; };
 		FACC4987286427A600807B04 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACC4986286427A600807B04 /* ContentView.swift */; };
 		FACC4989286427A600807B04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FACC4988286427A600807B04 /* Assets.xcassets */; };
@@ -34,6 +39,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FAB4EA52287562EA007CB7FA /* Webservice and Models .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Webservice and Models .swift"; sourceTree = "<group>"; };
+		FAB4EA5428756341007CB7FA /* Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stock.swift; sourceTree = "<group>"; };
+		FAB4EA5A287566D7007CB7FA /* StockListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StockListViewModel.swift; path = ../StockListViewModel.swift; sourceTree = "<group>"; };
+		FAB4EA5C2875674B007CB7FA /* StockViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockViewModel.swift; sourceTree = "<group>"; };
+		FAB4EA5E287568A9007CB7FA /* StockListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockListView.swift; sourceTree = "<group>"; };
 		FACC4981286427A600807B04 /* Daniel Stock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Daniel Stock.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FACC4984286427A600807B04 /* Daniel_StockApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Daniel_StockApp.swift; sourceTree = "<group>"; };
 		FACC4986286427A600807B04 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -95,7 +105,12 @@
 			isa = PBXGroup;
 			children = (
 				FACC4984286427A600807B04 /* Daniel_StockApp.swift */,
+				FAB4EA5A287566D7007CB7FA /* StockListViewModel.swift */,
 				FACC4986286427A600807B04 /* ContentView.swift */,
+				FAB4EA5E287568A9007CB7FA /* StockListView.swift */,
+				FAB4EA52287562EA007CB7FA /* Webservice and Models .swift */,
+				FAB4EA5C2875674B007CB7FA /* StockViewModel.swift */,
+				FAB4EA5428756341007CB7FA /* Stock.swift */,
 				FACC4988286427A600807B04 /* Assets.xcassets */,
 				FACC498A286427A600807B04 /* Preview Content */,
 			);
@@ -258,6 +273,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				FACC4987286427A600807B04 /* ContentView.swift in Sources */,
+				FAB4EA5B287566D7007CB7FA /* StockListViewModel.swift in Sources */,
+				FAB4EA53287562EA007CB7FA /* Webservice and Models .swift in Sources */,
+				FAB4EA5F287568A9007CB7FA /* StockListView.swift in Sources */,
+				FAB4EA5D2875674B007CB7FA /* StockViewModel.swift in Sources */,
+				FAB4EA5528756341007CB7FA /* Stock.swift in Sources */,
 				FACC4985286427A600807B04 /* Daniel_StockApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
