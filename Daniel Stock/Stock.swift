@@ -2,7 +2,7 @@
 //  Stock.swift
 //  Daniel Stock
 //
-//  Created by Macbook on 4/15/1401 AP.
+//  Created by Daniel on 4/15/1401 AP.
 //
 
 import Foundation

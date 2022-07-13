@@ -2,7 +2,7 @@
 //  Daniel_StockApp.swift
 //  Daniel Stock
 //
-//  Created by Macbook on 4/2/1401 AP.
+//  Created by Daniel on 4/2/1401 AP.
 //
 
 import SwiftUI
